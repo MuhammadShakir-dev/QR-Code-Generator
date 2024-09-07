@@ -19,7 +19,7 @@ A simple and efficient QR Code Generator built using **HTML**, **CSS**, and **Ja
 3. **Efficient API Usage**: Uses the QR Code API efficiently without unnecessary network requests.
 
 ## Demo
-You can see a live demo of the QR Code Generator [here](#). *(Add the link if you deploy the app on GitHub Pages or any other platform)*
+You can see a live demo of the QR Code Generator [here](https://qr-code-generator-blush.vercel.app/). *(Add the link if you deploy the app on GitHub Pages or any other platform)*
 
 ## Installation
 1. Clone the repository:
